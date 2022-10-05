@@ -1,0 +1,43 @@
+.simplebar-content-wrapper
+{
+    background-color: #3b3b3b;
+}
+
+body[data-sidebar-size=sm] .vertical-menu #sidebar-menu>ul>li>a i {
+    color:goldenrod;
+}
+
+body[data-sidebar-size=sm] .vertical-menu #sidebar-menu>ul>li:hover>a {
+    background-color: #585151;
+}
+body[data-sidebar-size=sm] .vertical-menu #sidebar-menu>ul ul {
+    background-color: #2e2d2d!important;
+}
+body[data-sidebar-size=sm] .vertical-menu #sidebar-menu>ul>li:hover>ul a {
+    color:greenyellow!important;
+}
+body[data-sidebar-size=sm] .vertical-menu #sidebar-menu>ul>li:hover>ul a:hover {
+    color:yellow!important;
+    font-size: large;
+}
+#page-topbar {
+    background-color: #c5bcad!important;
+}
+.navbar-brand-box {
+    background-color: #f34f4f!important;
+}
+#sidebar-menu ul li a:hover {
+    color: #e7d814!important;
+}
+.display-7 {
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+    background-color: #dddbdb;
+    color:rgb(49, 45, 45);
+}
+.modal-header{
+    background-color: bisque!important;
+}
